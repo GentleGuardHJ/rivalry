@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797403460978",
+    "project_id": "rivalry-real",
+    "storage_bucket": "rivalry-real.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797403460978:android:61029e71a014cece9f59eb",
+        "android_client_info": {
+          "package_name": "chj.project.rivalry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797403460978-b7g5v41uffcg08mj461ci60r4ki5pele.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chj.project.rivalry",
+            "certificate_hash": "9bf85c6fe2397e757cfbcd97bb57c1e8215f497d"
+          }
+        },
+        {
+          "client_id": "797403460978-k42311d9com753aqninadlbknsp7dla6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAju71wiHQMIOQYxGmRhirK3IC1JMuSPcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797403460978-k42311d9com753aqninadlbknsp7dla6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
